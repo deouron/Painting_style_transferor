@@ -4,7 +4,7 @@ from aiogram.utils import executor
 from aiogram.types import BotCommand
 
 from bot.headlers import *
-from bot.string_consts import dp
+from bot.utils import dp
 from string_consts import *
 
 

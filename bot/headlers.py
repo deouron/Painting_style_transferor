@@ -16,7 +16,7 @@ class Form(StatesGroup):
 @dp.message_handler(commands=['start'])
 async def start(message: types.Message) -> None:
     logger.info(f'User {message.from_user.id} {message.from_user.username} started')
-    await message.answer(utils.main_text)
+    await message.answer(string_consts.main_text)
 
 
 @dp.message_handler(commands=['help'])
@@ -36,7 +36,7 @@ async def help_command(message: types.Message) -> None:
 async def set_style_photo(message: types.Message):
     logger.info(f'Started loading photo style for {message.from_user.id}')
     await Form.image_style.set()
-    await message.reply(utils.photo_style_text)
+    await message.reply(string_consts.photo_style_text)
 
 
 @dp.message_handler(state=Form.image_style, content_types=['photo'])
@@ -61,7 +61,7 @@ async def set_style_photo_received(message: types.Message, state: FSMContext):
 async def set_source_photo(message: types.Message) -> None:
     logger.info(f'Started loading photo source for {message.from_user.id}')
     await Form.image_source.set()
-    await message.reply(utils.photo_source_text)
+    await message.reply(string_consts.photo_source_text)
 
 
 @dp.message_handler(state=Form.image_source, content_types=['photo'])
@@ -90,7 +90,7 @@ async def generate_photo(message: types.Message, state: FSMContext):
 
         async with state.proxy() as data:
             if len(data) != 3:
-                await message.answer(utils.error_generate)
+                await message.answer(string_consts.error_generate)
                 return
 
             logger.info('{} | source file: {} | image_file: {}'.format(message.from_user.id, data['image_source'],
