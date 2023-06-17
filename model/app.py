@@ -23,11 +23,9 @@ def run_style_transfer(cnn,
                        style_weight=1000000,
                        content_weight=1
                        ):
-    logger.info('Building the style transfer model..')
     model, style_losses, content_losses = get_style_model_and_losses(cnn,
                                                                      normalization_mean, normalization_std, style_img,
                                                                      content_img)
-
     input_img.requires_grad_(True)
     model.requires_grad_(False)
 
@@ -59,10 +57,8 @@ def run_style_transfer(cnn,
 
             run[0] += 1
             if run[0] % 5 == 0:
-                logger.info("run {}:".format(run))
-                logger.info('Style Loss : {:4f} Content Loss: {:4f}'.format(
-                    style_score.item(), content_score.item()))
-
+                logger.info(f"run {run}:")
+                logger.info('Style Loss : {:4f} Content Loss: {:4f}'.format(style_score.item(), content_score.item()))
             return style_score + content_score
 
         optimizer.step(closure)
