@@ -77,13 +77,12 @@ def run_style_transfer(cnn,
 def main(source_file: str,
          style_file: str,
          size: list,
-         epochs: int = 10,
+         epochs: int = 20,
          style_weight: int = 1000000,
          content_weight: int = 1
          ) -> str:
-    size_reduction = 1 if device == 'cuda' else 2
     content_img, style_img = preprocessing(source_file=source_file, style_file=style_file, size=size,
-                                           size_reduction=size_reduction)
+                                           size_reduction=1)
     input_img = content_img.clone()
 
     cnn = models.vgg19(weights='DEFAULT').features.to(device).eval()

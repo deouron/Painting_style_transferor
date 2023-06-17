@@ -2,11 +2,13 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+
 def gram_matrix(input):
     a, b, c, d = input.size()
-    features = input.view(a*b, c*d)
+    features = input.view(a * b, c * d)
     G = torch.mm(features, features.t())
-    return G.div(a*b*c*d) 
+    return G.div(a * b * c * d)
+
 
 # Content Loss
 class ContentLoss(nn.Module):
@@ -18,6 +20,7 @@ class ContentLoss(nn.Module):
         self.loss = F.mse_loss(input, self.target)
         return input
 
+
 # Style Loss
 class StyleLoss(nn.Module):
     def __init__(self, target_feature):
@@ -28,6 +31,7 @@ class StyleLoss(nn.Module):
         G = gram_matrix(input)
         self.loss = F.mse_loss(G, self.target)
         return input
+
 
 class Normalization(nn.Module):
     def __init__(self, mean, std):

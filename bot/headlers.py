@@ -23,14 +23,7 @@ async def start(message: types.Message) -> None:
 @dp.message_handler(commands=['help'])
 async def help_command(message: types.Message) -> None:
     logger.info(f'User {message.from_user.id} {message.from_user.username} requested help')
-    help_text = "This bot allows you to send two photos and receive a photo with the style transferred.\n\n" \
-                "Available commands:\n" \
-                "/start - Start interacting with the bot\n" \
-                "/set_style - Select the style for the photo\n" \
-                "/modified_photo - Select the photo for style transfer\n" \
-                "/generate - Generate a new photo with the transferred style\n" \
-                "/help - Display this help message"
-    await message.answer(help_text)
+    await message.answer(string_consts.help_text)
 
 
 @dp.message_handler(state='*', commands=['set_style'])
@@ -50,8 +43,7 @@ async def set_style_photo_received(message: types.Message, state: FSMContext):
             data['image_style'] = file_id
 
         await message.photo[-1].download(destination_file=f'Photos/style_photos/{file_id}.jpg')
-
-        await message.answer("Style photo has been successfully set.")
+        await message.answer(string_consts.set_style_command_description)
 
     except Exception as e:
         logger.exception(f'Error occurred while setting the style photo: {str(e)}')
@@ -77,7 +69,7 @@ async def set_source_photo_received(message: types.Message, state: FSMContext):
 
         await message.photo[-1].download(destination_file=f'Photos/style_photos/{file_id}.jpg')
 
-        await message.answer("Source photo has been successfully set.")
+        await message.answer(string_consts.source_success_set_text)
 
     except Exception as e:
         logger.exception(f'Error occurred while setting the source photo: {str(e)}')
@@ -97,7 +89,7 @@ async def generate_photo(message: types.Message, state: FSMContext):
             logger.info('{} | source file: {} | image_file: {}'.format(message.from_user.id, data['image_source'],
                                                                        data['image_style']))
 
-            await message.answer("Generating photo...")
+            await message.answer(string_consts.generating_text)
 
             output_file = main(data['image_source'], data['image_style'], data['size'],
                                epochs=50)
