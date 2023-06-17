@@ -802,3 +802,21 @@ TypeError: argument of type 'NoneType' is not iterable
 [2023-06-17 17:30:26] INFO | Style Loss : 115114.539062 Content Loss: 48.159786
 [2023-06-17 17:31:05] INFO | run [10]:
 [2023-06-17 17:31:05] INFO | Style Loss : 7763.921875 Content Loss: 19.159533
+[2023-06-17 17:32:22] INFO | run [15]:
+[2023-06-17 17:32:22] INFO | Style Loss : 4883.484863 Content Loss: 24.470699
+[2023-06-17 17:33:28] INFO | run [20]:
+[2023-06-17 17:33:28] INFO | Style Loss : 2575.634033 Content Loss: 26.540234
+[2023-06-17 17:34:16] INFO | run [25]:
+[2023-06-17 17:34:16] INFO | Style Loss : 972.263123 Content Loss: 26.257221
+[2023-06-17 17:35:27] INFO | run [30]:
+[2023-06-17 17:35:27] INFO | Style Loss : 519.455566 Content Loss: 25.570421
+[2023-06-17 17:36:26] INFO | run [35]:
+[2023-06-17 17:36:26] INFO | Style Loss : 327.170502 Content Loss: 25.269384
+[2023-06-17 17:37:21] INFO | run [40]:
+[2023-06-17 17:37:21] INFO | Style Loss : 257.871979 Content Loss: 25.431116
+[2023-06-17 17:37:58] INFO | run [45]:
+[2023-06-17 17:37:58] INFO | Style Loss : 223.886810 Content Loss: 25.490091
+[2023-06-17 17:38:48] INFO | run [50]:
+[2023-06-17 17:38:48] INFO | Style Loss : 186.588150 Content Loss: 25.634939
+[2023-06-17 17:39:51] INFO | run [55]:
+[2023-06-17 17:39:51] INFO | Style Loss : 157.451416 Content Loss: 25.545216
