@@ -3,8 +3,8 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.dispatcher import FSMContext
 from loguru import logger
 
-import utils
-from .settings import bot, dp
+import string_consts
+from .utils import bot, dp
 from model.app import main
 
 

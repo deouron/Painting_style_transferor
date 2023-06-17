@@ -4,17 +4,17 @@ from aiogram.utils import executor
 from aiogram.types import BotCommand
 
 from bot.headlers import *
-from bot.settings import dp
-from utils import *
+from bot.string_consts import dp
+from string_consts import *
 
 
 async def set_commands(dp):
     commands = [
-        BotCommand(command="/start", description=utils.start_command_description),
-        BotCommand(command="/help", description=utils.help_command_description),
-        BotCommand(command="/set_style", description=utils.set_style_command_description),
-        BotCommand(command="/modified_photo", description=utils.modified_photo_command_description),
-        BotCommand(command="/generate", description=utils.generate_command_description)
+        BotCommand(command="/start", description=string_consts.start_command_description),
+        BotCommand(command="/help", description=string_consts.help_command_description),
+        BotCommand(command="/set_style", description=string_consts.set_style_command_description),
+        BotCommand(command="/modified_photo", description=string_consts.modified_photo_command_description),
+        BotCommand(command="/generate", description=string_consts.generate_command_description)
     ]
 
     await dp.bot.set_my_commands(commands)
