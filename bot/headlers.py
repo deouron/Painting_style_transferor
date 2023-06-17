@@ -6,6 +6,7 @@ from loguru import logger
 import string_consts
 from .utils import bot, dp
 from model.app import main
+import asyncio
 
 
 class Form(StatesGroup):
@@ -95,6 +96,9 @@ async def generate_photo(message: types.Message, state: FSMContext):
 
             logger.info('{} | source file: {} | image_file: {}'.format(message.from_user.id, data['image_source'],
                                                                        data['image_style']))
+
+            await message.answer("Generating photo...")
+
             output_file = main(data['image_source'], data['image_style'], data['size'],
                                epochs=50)
 
