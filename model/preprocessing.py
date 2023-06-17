@@ -2,7 +2,7 @@ import torch
 import torchvision.transforms as transforms
 from PIL import Image
 
-from .constanst import device
+from .utils import *
 
 
 def image_loader(image_name: str, size: list, size_reduction: int) -> torch.Tensor:

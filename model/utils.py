@@ -1,8 +1,15 @@
+import torch
 import torch.nn as nn
 import torch.nn.functional as F
-
-from .constanst import device, content_layers_default, style_layers_default
 from .model import Normalization, ContentLoss, StyleLoss
+
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+cnn_normalization_mean = torch.tensor([0.485, 0.456, 0.406]).to(device)
+cnn_normalization_std = torch.tensor([0.229, 0.224, 0.225]).to(device)
+
+content_layers_default = ['conv_4']
+style_layers_default = ['conv_1', 'conv_2', 'conv_3', 'conv_4', 'conv_5']
 
 
 def get_style_model_and_losses(cnn,
@@ -13,6 +20,8 @@ def get_style_model_and_losses(cnn,
                                content_layers=content_layers_default,
                                style_layers=style_layers_default
                                ):
+    if content_layers is None:
+        content_layers = content_layers_default
     normalization = Normalization(normalization_mean, normalization_std).to(device)
 
     content_losses = []

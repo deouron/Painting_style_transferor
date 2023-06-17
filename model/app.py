@@ -9,9 +9,8 @@ import PIL
 
 from loguru import logger
 
-from .constanst import device, cnn_normalization_mean, cnn_normalization_std
 from .preprocessing import preprocessing
-from .utils import get_style_model_and_losses
+from .utils import *
 
 
 def run_style_transfer(cnn,
@@ -77,7 +76,7 @@ def run_style_transfer(cnn,
 def main(source_file: str,
          style_file: str,
          size: list,
-         epochs: int = 20,
+         epochs: int = 10,
          style_weight: int = 1000000,
          content_weight: int = 1
          ) -> str:

@@ -43,7 +43,7 @@ async def set_style_photo_received(message: types.Message, state: FSMContext):
             data['image_style'] = file_id
 
         await message.photo[-1].download(destination_file=f'Photos/style_photos/{file_id}.jpg')
-        await message.answer(string_consts.set_style_command_description)
+        await message.answer(string_consts.style_success_set_text)
 
     except Exception as e:
         logger.exception(f'Error occurred while setting the style photo: {str(e)}')
@@ -68,7 +68,6 @@ async def set_source_photo_received(message: types.Message, state: FSMContext):
             data['size'] = [message.photo[-1].width, message.photo[-1].height]
 
         await message.photo[-1].download(destination_file=f'Photos/style_photos/{file_id}.jpg')
-
         await message.answer(string_consts.source_success_set_text)
 
     except Exception as e:

@@ -642,3 +642,163 @@ FileNotFoundError: [Errno 2] No such file or directory: 'Photos/modified_photos/
 [2023-06-17 17:01:55] INFO | run [60]:
 [2023-06-17 17:01:55] INFO | Style Loss : 75.155098 Content Loss: 30.155300
 [2023-06-17 17:01:55] INFO | 48d557f9c01449ba9b796f61623f8e58.jpg
+[2023-06-17 17:12:04] INFO | User 300954178 deouron started
+[2023-06-17 17:12:07] INFO | User 300954178 deouron requested help
+[2023-06-17 17:12:10] INFO | Started loading photo style for 300954178
+[2023-06-17 17:12:12] INFO | 300954178 loading AgACAgIAAxkBAAMgZI2_PN47B7FkzOY8qtY9kQmOtjwAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA.jpg
+[2023-06-17 17:12:14] INFO | Started loading photo source for 300954178
+[2023-06-17 17:12:16] INFO | 300954178 loading AgACAgIAAxkBAAMkZI2_QNTv5I1aYxWgK0WRtGNG0zUAAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA.jpg
+[2023-06-17 17:12:18] INFO | 300954178 generating photo
+[2023-06-17 17:12:18] INFO | 300954178 | source file: AgACAgIAAxkBAAMkZI2_QNTv5I1aYxWgK0WRtGNG0zUAAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAMgZI2_PN47B7FkzOY8qtY9kQmOtjwAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA
+[2023-06-17 17:12:21] INFO | Building the style transfer model..
+[2023-06-17 17:12:35] INFO | Optimizing..
+[2023-06-17 17:13:16] INFO | run [5]:
+[2023-06-17 17:13:16] INFO | Style Loss : 115114.539062 Content Loss: 48.159786
+[2023-06-17 17:13:50] INFO | run [10]:
+[2023-06-17 17:13:50] INFO | Style Loss : 7763.921875 Content Loss: 19.159533
+[2023-06-17 17:14:49] INFO | run [15]:
+[2023-06-17 17:14:49] INFO | Style Loss : 4883.484863 Content Loss: 24.470699
+[2023-06-17 17:15:25] INFO | run [20]:
+[2023-06-17 17:15:25] INFO | Style Loss : 2575.634033 Content Loss: 26.540234
+[2023-06-17 17:16:04] INFO | run [25]:
+[2023-06-17 17:16:04] INFO | Style Loss : 972.263123 Content Loss: 26.257221
+[2023-06-17 17:16:41] INFO | run [30]:
+[2023-06-17 17:16:41] INFO | Style Loss : 519.455566 Content Loss: 25.570421
+[2023-06-17 17:17:15] INFO | run [35]:
+[2023-06-17 17:17:15] INFO | Style Loss : 327.170502 Content Loss: 25.269384
+[2023-06-17 17:17:50] INFO | run [40]:
+[2023-06-17 17:17:50] INFO | Style Loss : 257.871979 Content Loss: 25.431116
+[2023-06-17 17:18:39] INFO | run [45]:
+[2023-06-17 17:18:40] INFO | Style Loss : 223.886810 Content Loss: 25.490091
+[2023-06-17 17:19:36] INFO | run [50]:
+[2023-06-17 17:19:36] INFO | Style Loss : 186.588150 Content Loss: 25.634939
+[2023-06-17 17:20:25] INFO | run [55]:
+[2023-06-17 17:20:25] INFO | Style Loss : 157.451416 Content Loss: 25.545216
+[2023-06-17 17:21:34] INFO | run [60]:
+[2023-06-17 17:21:34] INFO | Style Loss : 135.379532 Content Loss: 25.605194
+[2023-06-17 17:21:37] INFO | fe06af23663b4fae90a2779b210d5913.jpg
+[2023-06-17 17:22:51] INFO | User 300954178 deouron started
+[2023-06-17 17:22:53] INFO | Started loading photo style for 300954178
+[2023-06-17 17:22:54] INFO | 300954178 loading AgACAgIAAxkBAAMtZI3BvvVQYnj2_tsI-4U_peMMvmIAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA.jpg
+[2023-06-17 17:22:56] INFO | Started loading photo source for 300954178
+[2023-06-17 17:22:58] INFO | 300954178 loading AgACAgIAAxkBAAMxZI3BwribzidWcLMeP7zoTU-X74cAAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA.jpg
+[2023-06-17 17:22:59] INFO | 300954178 generating photo
+[2023-06-17 17:22:59] INFO | 300954178 | source file: AgACAgIAAxkBAAMxZI3BwribzidWcLMeP7zoTU-X74cAAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAMtZI3BvvVQYnj2_tsI-4U_peMMvmIAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA
+[2023-06-17 17:23:02] INFO | Building the style transfer model..
+[2023-06-17 17:23:16] INFO | Optimizing..
+[2023-06-17 17:24:00] INFO | run [5]:
+[2023-06-17 17:24:00] INFO | Style Loss : 115114.539062 Content Loss: 48.159786
+[2023-06-17 17:24:52] INFO | run [10]:
+[2023-06-17 17:24:52] INFO | Style Loss : 7763.921875 Content Loss: 19.159533
+[2023-06-17 17:25:44] INFO | run [15]:
+[2023-06-17 17:25:44] INFO | Style Loss : 4883.484863 Content Loss: 24.470699
+[2023-06-17 17:26:31] INFO | run [20]:
+[2023-06-17 17:26:31] INFO | Style Loss : 2575.634033 Content Loss: 26.540234
+[2023-06-17 17:27:46] INFO | User 300954178 deouron started
+[2023-06-17 17:27:52] INFO | Started loading photo style for 300954178
+[2023-06-17 17:27:56] INFO | 300954178 loading AgACAgIAAxkBAAM5ZI3C7Aw98Yp8WPeLyWuXZuHhn_cAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA.jpg
+[2023-06-17 17:27:58] INFO | Started loading photo source for 300954178
+[2023-06-17 17:28:00] INFO | 300954178 loading AgACAgIAAxkBAAM9ZI3C8MfBb6mP8z8LCdrHs7fFbVwAAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA.jpg
+[2023-06-17 17:28:02] INFO | 300954178 generating photo
+[2023-06-17 17:28:02] INFO | 300954178 | source file: AgACAgIAAxkBAAM9ZI3C8MfBb6mP8z8LCdrHs7fFbVwAAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAM5ZI3C7Aw98Yp8WPeLyWuXZuHhn_cAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA
+[2023-06-17 17:28:04] INFO | Building the style transfer model..
+[2023-06-17 17:28:04] ERROR | Error occurred while generating the photo: argument of type 'NoneType' is not iterable
+Traceback (most recent call last):
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/bot.py", line 37, in <module>
+    executor.start_polling(dp, skip_updates=True, on_startup=set_commands)
+    │        │             │                                 └ <function set_commands at 0x101e6feb0>
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x103edfc40>
+    │        └ <function start_polling at 0x103e5c430>
+    └ <module 'aiogram.utils.executor' from '/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor...
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/utils/executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x103e5ce50>
+    └ <aiogram.utils.executor.Executor object at 0x116d79d80>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/utils/executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function BaseEventLoop.run_forever at 0x102529240>
+    └ <_UnixSelectorEventLoop running=True closed=False debug=False>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x10252ad40>
+    └ <_UnixSelectorEventLoop running=True closed=False debug=False>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x102411ab0>
+    └ <Handle Task.task_wakeup(<Future finished result=None>)>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle Task.task_wakeup(<Future finished result=None>)>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle Task.task_wakeup(<Future finished result=None>)>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle Task.task_wakeup(<Future finished result=None>)>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 990829369, "message": {"message_id": 63, "from": {"id": 300954178, "is_bot": false, "first_name": "Dim...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x103edfc40>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x1...
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x103a4eb30>
+                 │    │                │      └ <Update {"update_id": 990829369, "message": {"message_id": 63, "from": {"id": 300954178, "is_bot": false, "first_name": "Dima...
+                 │    │                └ <function Handler.notify at 0x103d736d0>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x103f20100>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x103edfc40>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {'state': <aiogram.dispatcher.storage.FSMContext object at 0x116db1c60>}
+                     │           │        └ (<Message {"message_id": 63, "from": {"id": 300954178, "is_bot": false, "first_name": "Dima", "last_name": "Sidorov", "userna...
+                     │           └ <function generate_photo at 0x116d8cb80>
+                     └ Handler.HandlerObj(handler=<function generate_photo at 0x116d8cb80>, spec=FullArgSpec(args=['message', 'state'], varargs=None...
+
+> File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/bot/headlers.py", line 94, in generate_photo
+    output_file = main(data['image_source'], data['image_style'], data['size'],
+                  │    │                     │                    └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x116db2ce0>
+                  │    │                     └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x116db2ce0>
+                  │    └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x116db2ce0>
+                  └ <function main at 0x116d8c670>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/app.py", line 89, in main
+    output = run_style_transfer(cnn, cnn_normalization_mean, cnn_normalization_std,
+             │                  │    │                       └ tensor([0.2290, 0.2240, 0.2250])
+             │                  │    └ tensor([0.4850, 0.4560, 0.4060])
+             │                  └ Sequential(
+             │                      (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+             │                      (1): ReLU(inplace=True)
+             │                      (2): Conv2d(6...
+             └ <function run_style_transfer at 0x103f09750>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/app.py", line 27, in run_style_transfer
+    model, style_losses, content_losses = get_style_model_and_losses(cnn,
+                                          │                          └ Sequential(
+                                          │                              (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                                          │                              (1): ReLU(inplace=True)
+                                          │                              (2): Conv2d(6...
+                                          └ <function get_style_model_and_losses at 0x116d8c4c0>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/utils.py", line 55, in get_style_model_and_losses
+    if name in style_layers:
+       │       └ None
+       └ 'conv_1'
+
+TypeError: argument of type 'NoneType' is not iterable
+[2023-06-17 17:29:01] INFO | User 300954178 deouron started
+[2023-06-17 17:29:04] INFO | Started loading photo style for 300954178
+[2023-06-17 17:29:06] INFO | 300954178 loading AgACAgIAAxkBAANGZI3DMtanqfS66g6LMtAS8mIkvasAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA.jpg
+[2023-06-17 17:29:12] INFO | Started loading photo source for 300954178
+[2023-06-17 17:29:16] INFO | 300954178 loading AgACAgIAAxkBAANKZI3DPNFSf0vFu91BuB-9jsHXxx8AAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA.jpg
+[2023-06-17 17:29:26] INFO | Started loading photo style for 300954178
+[2023-06-17 17:29:28] INFO | 300954178 loading AgACAgIAAxkBAANOZI3DSA3_Qa5vJb7ToHGAYFNLk7QAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA.jpg
+[2023-06-17 17:29:35] INFO | 300954178 generating photo
+[2023-06-17 17:29:35] INFO | 300954178 | source file: AgACAgIAAxkBAANKZI3DPNFSf0vFu91BuB-9jsHXxx8AAgPHMRsSEHBIWC2OUUF5V80BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAANOZI3DSA3_Qa5vJb7ToHGAYFNLk7QAAujGMRsSEHBIi1AdiWSvT9QBAAMCAAN4AAMvBA
+[2023-06-17 17:29:38] INFO | Building the style transfer model..
+[2023-06-17 17:29:50] INFO | Optimizing..
+[2023-06-17 17:30:26] INFO | run [5]:
+[2023-06-17 17:30:26] INFO | Style Loss : 115114.539062 Content Loss: 48.159786
+[2023-06-17 17:31:05] INFO | run [10]:
+[2023-06-17 17:31:05] INFO | Style Loss : 7763.921875 Content Loss: 19.159533

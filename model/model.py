@@ -10,7 +10,6 @@ def gram_matrix(input):
     return G.div(a * b * c * d)
 
 
-# Content Loss
 class ContentLoss(nn.Module):
     def __init__(self, target):
         super(ContentLoss, self).__init__()
@@ -36,9 +35,8 @@ class StyleLoss(nn.Module):
 class Normalization(nn.Module):
     def __init__(self, mean, std):
         super(Normalization, self).__init__()
-        self.mean = torch.tensor(mean).view(-1, 1, 1)
-        self.std = torch.tensor(std).view(-1, 1, 1)
+        self.mean = torch.tensor(mean).clone().detach().view(-1, 1, 1)
+        self.std = torch.tensor(std).clone().detach().view(-1, 1, 1)
 
     def forward(self, img):
-        # normalize img
         return (img - self.mean) / self.std
