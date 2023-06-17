@@ -18,12 +18,12 @@
 
 Loading a style             | Output
 :-------------------------:|:-------------------------:
-![](https://github.com/deouron/Painting_style_transferor/assets/70703745/eb455ff4-3f34-4bee-81ee-0d2501081c37)  |  ![](https://github.com/deouron/Painting_style_transferor/assets/70703745/5560d107-43b9-4f0c-ab9e-d477f976ae6f)
+<img width="823" alt="Снимок экрана 2023-06-17 в 19 15 00" src="https://github.com/deouron/Painting_style_transferor/assets/70703745/d55655d8-411e-4bb4-95b8-41df57c26bf5"> | <img width="823" alt="Снимок экрана 2023-06-17 в 19 15 37" src="https://github.com/deouron/Painting_style_transferor/assets/70703745/9e4016d7-c282-4600-88ef-bb674cca2825">  
 
 <p align="middle">
-  <img src="https://github.com/deouron/Painting_style_transferor/assets/70703745/1eae0c73-54f5-4f2c-85f4-5a1c84ced194" width="32%" />
-  <img src="https://github.com/deouron/Painting_style_transferor/assets/70703745/8ccd6f75-cf36-4dc0-a9ed-86532ac07cd3" width="32%" /> 
-  <img src="https://github.com/deouron/Painting_style_transferor/assets/70703745/ef866a9c-8314-4a27-a48e-195b237fe5a5" width="32%" />
+  <img src="https://github.com/deouron/Painting_style_transferor/assets/70703745/b4cdd54f-c5f3-450f-894e-06900beea2bb" width="32%" />
+  <img src="https://github.com/deouron/Painting_style_transferor/assets/70703745/bab6d959-9f8f-4698-a32b-525f45cb17d4" width="32%" /> 
+  <img src="https://github.com/deouron/Painting_style_transferor/assets/70703745/8c41a156-096b-4ff2-8791-e057aed0a460" width="32%" />
 </p>
 
 ---
