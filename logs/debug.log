@@ -1,0 +1,576 @@
+[2023-06-17 15:28:56] INFO | User 300954178 deouron start
+[2023-06-17 15:29:01] INFO | Start 300954178 loading photo style
+[2023-06-17 15:29:07] INFO | 300954178 loading AgACAgIAAxkBAAMKZI2nEyy-cYbI2Mog71dazAv0eeEAAgLNMRtcxnBI8QQYfG_iG1gBAAMCAANtAAMvBA.jpg
+[2023-06-17 15:29:07] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAAMKZI2nEyy-cYbI2Mog71dazAv0eeEAAgLNMRtcxnBI8QQYfG_iG1gBAAMCAANtAAMvBA'}, closed = True
+[2023-06-17 15:29:28] INFO | Start 300954178 loading photo source
+[2023-06-17 15:29:30] INFO | 300954178 loading AgACAgIAAxkBAAMNZI2nK67h8N2TtWZdBpRLLEz1oC8AAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:29:30] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAAMKZI2nEyy-cYbI2Mog71dazAv0eeEAAgLNMRtcxnBI8QQYfG_iG1gBAAMCAANtAAMvBA', 'image_source': 'AgACAgIAAxkBAAMNZI2nK67h8N2TtWZdBpRLLEz1oC8AAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA', 'size': [1097, 729]}, closed = True
+[2023-06-17 15:29:33] INFO | 300954178 generate photo
+[2023-06-17 15:29:33] INFO | 300954178 | source file: AgACAgIAAxkBAAMNZI2nK67h8N2TtWZdBpRLLEz1oC8AAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAMKZI2nEyy-cYbI2Mog71dazAv0eeEAAgLNMRtcxnBI8QQYfG_iG1gBAAMCAANtAAMvBA
+[2023-06-17 15:31:49] INFO | Start 300954178 loading photo style
+[2023-06-17 15:31:53] INFO | 300954178 loading AgACAgIAAxkBAAMRZI2nuSCGSALZ4EpopNkyw4N-tQYAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA.jpg
+[2023-06-17 15:31:53] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAAMRZI2nuSCGSALZ4EpopNkyw4N-tQYAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA'}, closed = True
+[2023-06-17 15:31:56] INFO | Start 300954178 loading photo source
+[2023-06-17 15:31:58] INFO | 300954178 loading AgACAgIAAxkBAAMUZI2nvi7Rx997ZE5_aOEqzBrOmxQAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:31:58] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAAMRZI2nuSCGSALZ4EpopNkyw4N-tQYAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA', 'image_source': 'AgACAgIAAxkBAAMUZI2nvi7Rx997ZE5_aOEqzBrOmxQAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA', 'size': [1097, 729]}, closed = True
+[2023-06-17 15:32:00] INFO | 300954178 generate photo
+[2023-06-17 15:32:00] INFO | 300954178 | source file: AgACAgIAAxkBAAMUZI2nvi7Rx997ZE5_aOEqzBrOmxQAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAMRZI2nuSCGSALZ4EpopNkyw4N-tQYAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA
+[2023-06-17 15:34:06] INFO | 300954178 generate photo
+[2023-06-17 15:34:20] INFO | Start 300954178 loading photo style
+[2023-06-17 15:34:22] INFO | 300954178 loading AgACAgIAAxkBAAMbZI2oTr-jeekv2oPOpiohMm1Ru_0AAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA.jpg
+[2023-06-17 15:34:22] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAAMbZI2oTr-jeekv2oPOpiohMm1Ru_0AAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA'}, closed = True
+[2023-06-17 15:34:24] INFO | Start 300954178 loading photo source
+[2023-06-17 15:34:26] INFO | 300954178 loading AgACAgIAAxkBAAMeZI2oUj0_KUjU9Ezm044bRYXhE_cAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:34:26] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAAMbZI2oTr-jeekv2oPOpiohMm1Ru_0AAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA', 'image_source': 'AgACAgIAAxkBAAMeZI2oUj0_KUjU9Ezm044bRYXhE_cAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA', 'size': [1097, 729]}, closed = True
+[2023-06-17 15:34:28] INFO | 300954178 generate photo
+[2023-06-17 15:34:28] INFO | 300954178 | source file: AgACAgIAAxkBAAMeZI2oUj0_KUjU9Ezm044bRYXhE_cAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAMbZI2oTr-jeekv2oPOpiohMm1Ru_0AAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA
+[2023-06-17 15:37:31] INFO | Start 300954178 loading photo style
+[2023-06-17 15:37:34] INFO | 300954178 loading AgACAgIAAxkBAAMjZI2pDjk5BuJoyzpk8iigFyPUSPUAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA.jpg
+[2023-06-17 15:37:34] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAAMjZI2pDjk5BuJoyzpk8iigFyPUSPUAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA'}, closed = True
+[2023-06-17 15:37:37] INFO | Start 300954178 loading photo source
+[2023-06-17 15:37:40] INFO | 300954178 loading AgACAgIAAxkBAAMmZI2pFNsVLqVeoGYPTx3rgj8Nl5YAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:37:40] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAAMjZI2pDjk5BuJoyzpk8iigFyPUSPUAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA', 'image_source': 'AgACAgIAAxkBAAMmZI2pFNsVLqVeoGYPTx3rgj8Nl5YAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA', 'size': [1097, 729]}, closed = True
+[2023-06-17 15:37:42] INFO | 300954178 generate photo
+[2023-06-17 15:37:42] INFO | 300954178 | source file: AgACAgIAAxkBAAMmZI2pFNsVLqVeoGYPTx3rgj8Nl5YAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAMjZI2pDjk5BuJoyzpk8iigFyPUSPUAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA
+[2023-06-17 15:38:05] INFO | Building the style transfer model..
+[2023-06-17 15:38:07] INFO | Optimizing..
+[2023-06-17 15:38:11] INFO | run [5]:
+[2023-06-17 15:38:11] INFO | Style Loss : 14686.194336 Content Loss: 20.738817
+[2023-06-17 15:38:15] INFO | run [10]:
+[2023-06-17 15:38:15] INFO | Style Loss : 5793.405762 Content Loss: 13.505887
+[2023-06-17 15:38:19] INFO | run [15]:
+[2023-06-17 15:38:19] INFO | Style Loss : 3221.723633 Content Loss: 12.233673
+[2023-06-17 15:38:23] INFO | run [20]:
+[2023-06-17 15:38:23] INFO | Style Loss : 2333.254150 Content Loss: 12.157765
+[2023-06-17 15:38:27] INFO | run [25]:
+[2023-06-17 15:38:27] INFO | Style Loss : 2105.885986 Content Loss: 12.175808
+[2023-06-17 15:38:31] INFO | run [30]:
+[2023-06-17 15:38:31] INFO | Style Loss : 1975.255981 Content Loss: 12.309818
+[2023-06-17 15:38:35] INFO | run [35]:
+[2023-06-17 15:38:35] INFO | Style Loss : 1840.755371 Content Loss: 12.698692
+[2023-06-17 15:38:39] INFO | run [40]:
+[2023-06-17 15:38:39] INFO | Style Loss : 1685.959961 Content Loss: 13.037560
+[2023-06-17 15:38:39] INFO | 7ca15c7828384483a63ca40c57b7e35d.jpg
+[2023-06-17 15:39:19] INFO | 300954178 generate photo
+[2023-06-17 15:39:19] INFO | 300954178 | source file: AgACAgIAAxkBAAMmZI2pFNsVLqVeoGYPTx3rgj8Nl5YAAhnJMRviLnFIyHG6IYXrgPIBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAMjZI2pDjk5BuJoyzpk8iigFyPUSPUAAsDGMRsSEHBI4XfxHQl19nUBAAMCAANtAAMvBA
+[2023-06-17 15:39:22] INFO | Building the style transfer model..
+[2023-06-17 15:39:23] INFO | Optimizing..
+[2023-06-17 15:39:28] INFO | run [5]:
+[2023-06-17 15:39:28] INFO | Style Loss : 14686.194336 Content Loss: 20.738817
+[2023-06-17 15:39:32] INFO | run [10]:
+[2023-06-17 15:39:32] INFO | Style Loss : 5793.405762 Content Loss: 13.505887
+[2023-06-17 15:39:35] INFO | run [15]:
+[2023-06-17 15:39:35] INFO | Style Loss : 3221.723633 Content Loss: 12.233673
+[2023-06-17 15:39:39] INFO | run [20]:
+[2023-06-17 15:39:39] INFO | Style Loss : 2333.254150 Content Loss: 12.157765
+[2023-06-17 15:39:43] INFO | run [25]:
+[2023-06-17 15:39:43] INFO | Style Loss : 2105.885986 Content Loss: 12.175808
+[2023-06-17 15:39:48] INFO | run [30]:
+[2023-06-17 15:39:48] INFO | Style Loss : 1975.255981 Content Loss: 12.309818
+[2023-06-17 15:39:52] INFO | run [35]:
+[2023-06-17 15:39:52] INFO | Style Loss : 1840.755371 Content Loss: 12.698692
+[2023-06-17 15:39:56] INFO | run [40]:
+[2023-06-17 15:39:56] INFO | Style Loss : 1685.959961 Content Loss: 13.037560
+[2023-06-17 15:39:56] INFO | c30cb40cd3614049ab6f96e86276d574.jpg
+[2023-06-17 15:53:55] INFO | User 300954178 deouron started
+[2023-06-17 15:54:03] INFO | 300954178 generating photo
+[2023-06-17 15:54:08] INFO | Started loading photo source for 300954178
+[2023-06-17 15:55:31] INFO | User 300954178 deouron started
+[2023-06-17 15:55:34] INFO | Started loading photo source for 300954178
+[2023-06-17 15:55:49] INFO | 300954178 generating photo
+[2023-06-17 15:55:54] INFO | Started loading photo style for 300954178
+[2023-06-17 15:55:57] INFO | 300954178 loading AgACAgIAAxkBAAM6ZI2tXbKBWKLD_CWRD3WyFEYVLOIAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:55:57] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAAM6ZI2tXbKBWKLD_CWRD3WyFEYVLOIAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA'}, closed = True
+[2023-06-17 15:55:59] INFO | 300954178 generating photo
+[2023-06-17 15:56:31] INFO | Started loading photo source for 300954178
+[2023-06-17 15:56:33] INFO | 300954178 loading AgACAgIAAxkBAAM_ZI2tgZT_RkCxh0KjMQRFW3ZtmKUAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:56:33] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAAM6ZI2tXbKBWKLD_CWRD3WyFEYVLOIAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'image_source': 'AgACAgIAAxkBAAM_ZI2tgZT_RkCxh0KjMQRFW3ZtmKUAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'size': [1280, 486]}, closed = True
+[2023-06-17 15:56:34] INFO | 300954178 generating photo
+[2023-06-17 15:56:34] INFO | 300954178 | source file: AgACAgIAAxkBAAM_ZI2tgZT_RkCxh0KjMQRFW3ZtmKUAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAM6ZI2tXbKBWKLD_CWRD3WyFEYVLOIAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA
+[2023-06-17 15:56:55] INFO | Started loading photo style for 300954178
+[2023-06-17 15:56:56] INFO | 300954178 loading AgACAgIAAxkBAANEZI2tmOpNtmBAsewljtpJp04-0JYAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:56:56] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAANEZI2tmOpNtmBAsewljtpJp04-0JYAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'image_source': 'AgACAgIAAxkBAAM_ZI2tgZT_RkCxh0KjMQRFW3ZtmKUAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'size': [1280, 486]}, closed = True
+[2023-06-17 15:56:57] INFO | 300954178 generating photo
+[2023-06-17 15:56:57] INFO | 300954178 | source file: AgACAgIAAxkBAAM_ZI2tgZT_RkCxh0KjMQRFW3ZtmKUAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAANEZI2tmOpNtmBAsewljtpJp04-0JYAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA
+[2023-06-17 15:57:00] INFO | Started loading photo source for 300954178
+[2023-06-17 15:57:01] INFO | 300954178 loading AgACAgIAAxkBAANJZI2tnrr5bXf-RPnMhWCVTGtnpOEAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:57:01] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAANEZI2tmOpNtmBAsewljtpJp04-0JYAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'image_source': 'AgACAgIAAxkBAANJZI2tnrr5bXf-RPnMhWCVTGtnpOEAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'size': [1280, 486]}, closed = True
+[2023-06-17 15:57:07] INFO | 300954178 generating photo
+[2023-06-17 15:57:07] INFO | 300954178 | source file: AgACAgIAAxkBAANJZI2tnrr5bXf-RPnMhWCVTGtnpOEAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAANEZI2tmOpNtmBAsewljtpJp04-0JYAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA
+[2023-06-17 15:57:10] INFO | 300954178 loading AgACAgIAAxkBAANMZI2tpu9z2XDLGCSiIhKgN77R8XMAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:57:10] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAANEZI2tmOpNtmBAsewljtpJp04-0JYAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'image_source': 'AgACAgIAAxkBAANMZI2tpu9z2XDLGCSiIhKgN77R8XMAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'size': [1280, 486]}, closed = True
+[2023-06-17 15:57:11] INFO | 300954178 generating photo
+[2023-06-17 15:57:11] INFO | 300954178 | source file: AgACAgIAAxkBAANMZI2tpu9z2XDLGCSiIhKgN77R8XMAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAANEZI2tmOpNtmBAsewljtpJp04-0JYAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA
+[2023-06-17 15:57:28] INFO | Started loading photo source for 300954178
+[2023-06-17 15:57:30] INFO | 300954178 loading AgACAgIAAxkBAANRZI2tuvkZqWtStc9KszArNXSMEcgAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA.jpg
+[2023-06-17 15:57:30] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_source': 'AgACAgIAAxkBAANRZI2tuvkZqWtStc9KszArNXSMEcgAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'size': [1280, 486]}, closed = True
+[2023-06-17 15:57:32] INFO | Started loading photo style for 300954178
+[2023-06-17 15:57:34] INFO | 300954178 loading AgACAgIAAxkBAANUZI2tv6nYJ2HPUnEAASW3EfUAAfuOGgAC2cYxGxIQcEhQx-RAso09vQEAAwIAA3kAAy8E.jpg
+[2023-06-17 15:57:34] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_source': 'AgACAgIAAxkBAANRZI2tuvkZqWtStc9KszArNXSMEcgAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA', 'size': [1280, 486], 'image_style': 'AgACAgIAAxkBAANUZI2tv6nYJ2HPUnEAASW3EfUAAfuOGgAC2cYxGxIQcEhQx-RAso09vQEAAwIAA3kAAy8E'}, closed = True
+[2023-06-17 15:57:36] INFO | 300954178 generating photo
+[2023-06-17 15:57:36] INFO | 300954178 | source file: AgACAgIAAxkBAANRZI2tuvkZqWtStc9KszArNXSMEcgAAtnGMRsSEHBIUMfkQLKNPb0BAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAANUZI2tv6nYJ2HPUnEAASW3EfUAAfuOGgAC2cYxGxIQcEhQx-RAso09vQEAAwIAA3kAAy8E
+[2023-06-17 15:57:41] INFO | Building the style transfer model..
+[2023-06-17 15:57:43] INFO | Optimizing..
+[2023-06-17 15:57:47] INFO | run [5]:
+[2023-06-17 15:57:47] INFO | Style Loss : 0.000000 Content Loss: 0.000000
+[2023-06-17 15:57:51] INFO | run [10]:
+[2023-06-17 15:57:51] INFO | Style Loss : 0.000000 Content Loss: 0.000000
+[2023-06-17 15:57:54] INFO | run [15]:
+[2023-06-17 15:57:54] INFO | Style Loss : 0.000000 Content Loss: 0.000000
+[2023-06-17 15:57:59] INFO | run [20]:
+[2023-06-17 15:57:59] INFO | Style Loss : 0.000000 Content Loss: 0.000000
+[2023-06-17 15:58:00] INFO | 7b2f079cbe4945cbac57e3563ac44593.jpg
+[2023-06-17 16:11:44] INFO | User 300954178 deouron started
+[2023-06-17 16:12:05] INFO | Started loading photo style for 300954178
+[2023-06-17 16:12:08] INFO | 300954178 loading AgACAgIAAxkBAANcZI2xKBKanIF9yfBt7aRWLEvuDq8AAuXGMRsSEHBIjOpxdWQF1y0BAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:12:08] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAANcZI2xKBKanIF9yfBt7aRWLEvuDq8AAuXGMRsSEHBIjOpxdWQF1y0BAAMCAAN4AAMvBA'}, closed = True
+[2023-06-17 16:12:11] INFO | Started loading photo source for 300954178
+[2023-06-17 16:12:40] INFO | 300954178 loading AgACAgIAAxkBAANfZI2xSbp-6tfh3iVuLF398kIcckUAAubGMRsSEHBIWJmBdclXdK8BAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:12:40] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAANcZI2xKBKanIF9yfBt7aRWLEvuDq8AAuXGMRsSEHBIjOpxdWQF1y0BAAMCAAN4AAMvBA', 'image_source': 'AgACAgIAAxkBAANfZI2xSbp-6tfh3iVuLF398kIcckUAAubGMRsSEHBIWJmBdclXdK8BAAMCAAN4AAMvBA', 'size': [458, 320]}, closed = True
+[2023-06-17 16:12:44] INFO | 300954178 generating photo
+[2023-06-17 16:12:44] INFO | 300954178 | source file: AgACAgIAAxkBAANfZI2xSbp-6tfh3iVuLF398kIcckUAAubGMRsSEHBIWJmBdclXdK8BAAMCAAN4AAMvBA | image_file: AgACAgIAAxkBAANcZI2xKBKanIF9yfBt7aRWLEvuDq8AAuXGMRsSEHBIjOpxdWQF1y0BAAMCAAN4AAMvBA
+[2023-06-17 16:12:49] INFO | Building the style transfer model..
+[2023-06-17 16:12:50] INFO | Optimizing..
+[2023-06-17 16:12:51] INFO | run [5]:
+[2023-06-17 16:12:51] INFO | Style Loss : 15569.557617 Content Loss: 19.888893
+[2023-06-17 16:12:52] INFO | run [10]:
+[2023-06-17 16:12:52] INFO | Style Loss : 5303.088379 Content Loss: 32.930340
+[2023-06-17 16:12:53] INFO | run [15]:
+[2023-06-17 16:12:53] INFO | Style Loss : 3943.042725 Content Loss: 36.651638
+[2023-06-17 16:12:54] INFO | run [20]:
+[2023-06-17 16:12:54] INFO | Style Loss : 2499.109619 Content Loss: 43.388504
+[2023-06-17 16:12:55] INFO | run [25]:
+[2023-06-17 16:12:55] INFO | Style Loss : 1954.394897 Content Loss: 45.120197
+[2023-06-17 16:12:56] INFO | run [30]:
+[2023-06-17 16:12:56] INFO | Style Loss : 1591.928589 Content Loss: 45.752460
+[2023-06-17 16:12:57] INFO | run [35]:
+[2023-06-17 16:12:57] INFO | Style Loss : 1344.975586 Content Loss: 47.403675
+[2023-06-17 16:12:58] INFO | run [40]:
+[2023-06-17 16:12:58] INFO | Style Loss : 1217.516846 Content Loss: 48.089287
+[2023-06-17 16:12:58] INFO | 1798f26148b843be8f3afd8f90c58ac2.jpg
+[2023-06-17 16:15:44] INFO | User 300954178 deouron started
+[2023-06-17 16:15:47] INFO | Started loading photo style for 300954178
+[2023-06-17 16:15:50] INFO | 300954178 loading AgACAgIAAxkBAANmZI2yBqJXRVo6GWJS39xm2OfIv14AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:15:50] INFO | FSMContextProxy state = 'Form:image_style', data = {'image_style': 'AgACAgIAAxkBAANmZI2yBqJXRVo6GWJS39xm2OfIv14AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA'}, closed = True
+[2023-06-17 16:15:52] INFO | Started loading photo source for 300954178
+[2023-06-17 16:15:54] INFO | 300954178 loading AgACAgIAAxkBAANpZI2yCtTDHx2eTdSpPL-Ducf_kEoAAunGMRsSEHBIBKJ_JwkvSu8BAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:15:54] INFO | FSMContextProxy state = 'Form:image_source', data = {'image_style': 'AgACAgIAAxkBAANmZI2yBqJXRVo6GWJS39xm2OfIv14AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA', 'image_source': 'AgACAgIAAxkBAANpZI2yCtTDHx2eTdSpPL-Ducf_kEoAAunGMRsSEHBIBKJ_JwkvSu8BAAMCAAN4AAMvBA', 'size': [458, 320]}, closed = True
+[2023-06-17 16:15:55] INFO | 300954178 generating photo
+[2023-06-17 16:15:55] INFO | 300954178 | source file: AgACAgIAAxkBAANpZI2yCtTDHx2eTdSpPL-Ducf_kEoAAunGMRsSEHBIBKJ_JwkvSu8BAAMCAAN4AAMvBA | image_file: AgACAgIAAxkBAANmZI2yBqJXRVo6GWJS39xm2OfIv14AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA
+[2023-06-17 16:15:59] INFO | Building the style transfer model..
+[2023-06-17 16:16:00] INFO | Optimizing..
+[2023-06-17 16:16:00] INFO | run [5]:
+[2023-06-17 16:16:00] INFO | Style Loss : 17819.285156 Content Loss: 22.781363
+[2023-06-17 16:16:01] INFO | run [10]:
+[2023-06-17 16:16:01] INFO | Style Loss : 5257.618652 Content Loss: 32.236320
+[2023-06-17 16:16:02] INFO | run [15]:
+[2023-06-17 16:16:02] INFO | Style Loss : 3458.702393 Content Loss: 41.215351
+[2023-06-17 16:16:03] INFO | run [20]:
+[2023-06-17 16:16:03] INFO | Style Loss : 2385.621582 Content Loss: 42.059353
+[2023-06-17 16:16:04] INFO | run [25]:
+[2023-06-17 16:16:04] INFO | Style Loss : 1890.830811 Content Loss: 44.678425
+[2023-06-17 16:16:04] INFO | run [30]:
+[2023-06-17 16:16:04] INFO | Style Loss : 1555.980835 Content Loss: 44.972546
+[2023-06-17 16:16:05] INFO | run [35]:
+[2023-06-17 16:16:05] INFO | Style Loss : 1203.223877 Content Loss: 47.005753
+[2023-06-17 16:16:06] INFO | run [40]:
+[2023-06-17 16:16:06] INFO | Style Loss : 1001.831360 Content Loss: 48.126766
+[2023-06-17 16:16:07] INFO | run [45]:
+[2023-06-17 16:16:07] INFO | Style Loss : 890.420288 Content Loss: 48.897690
+[2023-06-17 16:16:08] INFO | run [50]:
+[2023-06-17 16:16:08] INFO | Style Loss : 787.938110 Content Loss: 49.611885
+[2023-06-17 16:16:08] INFO | run [55]:
+[2023-06-17 16:16:08] INFO | Style Loss : 643.013123 Content Loss: 50.688690
+[2023-06-17 16:16:09] INFO | run [60]:
+[2023-06-17 16:16:09] INFO | Style Loss : 586.435059 Content Loss: 51.402843
+[2023-06-17 16:16:09] INFO | 564f9d97b0cd403786f9a88d7521c5e7.jpg
+[2023-06-17 16:18:34] INFO | User 300954178 deouron started
+[2023-06-17 16:18:36] INFO | User 300954178 deouron requested help
+[2023-06-17 16:23:41] INFO | User 300954178 deouron started
+[2023-06-17 16:24:04] INFO | Started loading photo style for 300954178
+[2023-06-17 16:24:06] INFO | 300954178 loading AgACAgIAAxkBAAN1ZI2z9kHOtnKFl1--J9SVscSOv0wAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:25:21] INFO | User 300954178 deouron started
+[2023-06-17 16:25:22] INFO | User 300954178 deouron requested help
+[2023-06-17 16:25:24] INFO | Started loading photo source for 300954178
+[2023-06-17 16:25:26] INFO | 300954178 loading AgACAgIAAxkBAAOBZI20RmWpMDDE6c4aXvzJnTP-154AAunGMRsSEHBIBKJ_JwkvSu8BAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:25:29] INFO | Started loading photo style for 300954178
+[2023-06-17 16:25:32] INFO | 300954178 loading AgACAgIAAxkBAAOFZI20TFysffnkH2weJ8ZOXRPPOygAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:25:36] INFO | 300954178 generating photo
+[2023-06-17 16:25:36] INFO | 300954178 | source file: AgACAgIAAxkBAAOBZI20RmWpMDDE6c4aXvzJnTP-154AAunGMRsSEHBIBKJ_JwkvSu8BAAMCAAN4AAMvBA | image_file: AgACAgIAAxkBAAOFZI20TFysffnkH2weJ8ZOXRPPOygAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA
+[2023-06-17 16:25:40] INFO | Building the style transfer model..
+[2023-06-17 16:25:41] INFO | Optimizing..
+[2023-06-17 16:25:42] INFO | run [5]:
+[2023-06-17 16:25:42] INFO | Style Loss : 17819.285156 Content Loss: 22.781363
+[2023-06-17 16:25:43] INFO | run [10]:
+[2023-06-17 16:25:43] INFO | Style Loss : 5257.618652 Content Loss: 32.236320
+[2023-06-17 16:25:44] INFO | run [15]:
+[2023-06-17 16:25:44] INFO | Style Loss : 3458.702393 Content Loss: 41.215351
+[2023-06-17 16:25:45] INFO | run [20]:
+[2023-06-17 16:25:45] INFO | Style Loss : 2385.621582 Content Loss: 42.059353
+[2023-06-17 16:25:46] INFO | run [25]:
+[2023-06-17 16:25:46] INFO | Style Loss : 1890.830811 Content Loss: 44.678425
+[2023-06-17 16:25:46] INFO | run [30]:
+[2023-06-17 16:25:46] INFO | Style Loss : 1555.980835 Content Loss: 44.972546
+[2023-06-17 16:25:47] INFO | run [35]:
+[2023-06-17 16:25:47] INFO | Style Loss : 1203.223877 Content Loss: 47.005753
+[2023-06-17 16:25:48] INFO | run [40]:
+[2023-06-17 16:25:48] INFO | Style Loss : 1001.831360 Content Loss: 48.126766
+[2023-06-17 16:25:49] INFO | run [45]:
+[2023-06-17 16:25:49] INFO | Style Loss : 890.420288 Content Loss: 48.897690
+[2023-06-17 16:25:50] INFO | run [50]:
+[2023-06-17 16:25:50] INFO | Style Loss : 787.938110 Content Loss: 49.611885
+[2023-06-17 16:25:50] INFO | run [55]:
+[2023-06-17 16:25:50] INFO | Style Loss : 643.013123 Content Loss: 50.688690
+[2023-06-17 16:25:51] INFO | run [60]:
+[2023-06-17 16:25:51] INFO | Style Loss : 586.435059 Content Loss: 51.402843
+[2023-06-17 16:25:51] INFO | ea9fb55010744d23b093b96a122e3a07.jpg
+[2023-06-17 16:26:35] INFO | Started loading photo source for 300954178
+[2023-06-17 16:26:38] INFO | 300954178 loading AgACAgIAAxkBAAOMZI20jtx4k_GXjWwhx6E36T4kY7QAAhrJMRviLnFIG3bhAc6xrdsBAAMCAAN5AAMvBA.jpg
+[2023-06-17 16:26:40] INFO | 300954178 generating photo
+[2023-06-17 16:26:40] INFO | 300954178 | source file: AgACAgIAAxkBAAOMZI20jtx4k_GXjWwhx6E36T4kY7QAAhrJMRviLnFIG3bhAc6xrdsBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAOFZI20TFysffnkH2weJ8ZOXRPPOygAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA
+[2023-06-17 16:26:44] INFO | Building the style transfer model..
+[2023-06-17 16:26:46] INFO | Optimizing..
+[2023-06-17 16:26:53] INFO | run [5]:
+[2023-06-17 16:26:53] INFO | Style Loss : 127631.695312 Content Loss: 52.205242
+[2023-06-17 16:27:01] INFO | run [10]:
+[2023-06-17 16:27:01] INFO | Style Loss : 7237.203613 Content Loss: 24.919189
+[2023-06-17 16:27:08] INFO | run [15]:
+[2023-06-17 16:27:08] INFO | Style Loss : 3618.126953 Content Loss: 29.965843
+[2023-06-17 16:27:15] INFO | run [20]:
+[2023-06-17 16:27:15] INFO | Style Loss : 1229.718384 Content Loss: 30.034534
+[2023-06-17 16:27:22] INFO | run [25]:
+[2023-06-17 16:27:22] INFO | Style Loss : 461.134491 Content Loss: 29.365911
+[2023-06-17 16:27:30] INFO | run [30]:
+[2023-06-17 16:27:30] INFO | Style Loss : 287.103668 Content Loss: 29.069775
+[2023-06-17 16:27:37] INFO | run [35]:
+[2023-06-17 16:27:37] INFO | Style Loss : 210.396271 Content Loss: 29.080761
+[2023-06-17 16:27:45] INFO | run [40]:
+[2023-06-17 16:27:45] INFO | Style Loss : 163.526947 Content Loss: 29.030514
+[2023-06-17 16:27:52] INFO | run [45]:
+[2023-06-17 16:27:52] INFO | Style Loss : 127.880775 Content Loss: 29.099642
+[2023-06-17 16:27:59] INFO | run [50]:
+[2023-06-17 16:27:59] INFO | Style Loss : 108.939651 Content Loss: 29.099264
+[2023-06-17 16:28:07] INFO | run [55]:
+[2023-06-17 16:28:07] INFO | Style Loss : 91.291557 Content Loss: 29.152630
+[2023-06-17 16:28:15] INFO | run [60]:
+[2023-06-17 16:28:15] INFO | Style Loss : 76.088432 Content Loss: 29.066900
+[2023-06-17 16:28:15] INFO | 6704e06c2c3149008a3647023d459f61.jpg
+[2023-06-17 16:29:14] INFO | User 347458328 komaranto started
+[2023-06-17 16:29:21] INFO | User 347458328 komaranto started
+[2023-06-17 16:29:29] INFO | Started loading photo style for 347458328
+[2023-06-17 16:29:36] INFO | 347458328 loading AgACAgIAAxkBAAOXZI21QHkUcHja90rvaIrp3FGOXXQAAuTKMRuo1mlIlmA9mK05kAEBAAMCAAN5AAMvBA.jpg
+[2023-06-17 16:29:45] INFO | Started loading photo source for 347458328
+[2023-06-17 16:29:52] INFO | 347458328 loading AgACAgIAAxkBAAObZI21UCTP9cwN8C1y3NW5Ze2zck4AAlXHMRttOnBIVbYH_mdbTssBAAMCAAN5AAMvBA.jpg
+[2023-06-17 16:29:58] INFO | 347458328 generating photo
+[2023-06-17 16:29:58] INFO | 347458328 | source file: AgACAgIAAxkBAAObZI21UCTP9cwN8C1y3NW5Ze2zck4AAlXHMRttOnBIVbYH_mdbTssBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAOXZI21QHkUcHja90rvaIrp3FGOXXQAAuTKMRuo1mlIlmA9mK05kAEBAAMCAAN5AAMvBA
+[2023-06-17 16:30:01] INFO | Building the style transfer model..
+[2023-06-17 16:30:04] INFO | Optimizing..
+[2023-06-17 16:30:11] INFO | run [5]:
+[2023-06-17 16:30:11] INFO | Style Loss : 999.998047 Content Loss: 2.941480
+[2023-06-17 16:30:19] INFO | run [10]:
+[2023-06-17 16:30:19] INFO | Style Loss : 285.700562 Content Loss: 7.479979
+[2023-06-17 16:30:27] INFO | run [15]:
+[2023-06-17 16:30:27] INFO | Style Loss : 157.364517 Content Loss: 7.896299
+[2023-06-17 16:30:36] INFO | run [20]:
+[2023-06-17 16:30:36] INFO | Style Loss : 89.343529 Content Loss: 8.219125
+[2023-06-17 16:30:43] INFO | run [25]:
+[2023-06-17 16:30:43] INFO | Style Loss : 66.636307 Content Loss: 7.966674
+[2023-06-17 16:30:50] INFO | run [30]:
+[2023-06-17 16:30:50] INFO | Style Loss : 58.126736 Content Loss: 7.931613
+[2023-06-17 16:30:59] INFO | run [35]:
+[2023-06-17 16:30:59] INFO | Style Loss : 52.369835 Content Loss: 7.617393
+[2023-06-17 16:31:07] INFO | run [40]:
+[2023-06-17 16:31:07] INFO | Style Loss : 46.350315 Content Loss: 7.473909
+[2023-06-17 16:31:15] INFO | run [45]:
+[2023-06-17 16:31:15] INFO | Style Loss : 43.023869 Content Loss: 7.268544
+[2023-06-17 16:31:23] INFO | run [50]:
+[2023-06-17 16:31:23] INFO | Style Loss : 39.367653 Content Loss: 7.049551
+[2023-06-17 16:31:31] INFO | run [55]:
+[2023-06-17 16:31:31] INFO | Style Loss : 36.691925 Content Loss: 6.993066
+[2023-06-17 16:31:39] INFO | run [60]:
+[2023-06-17 16:31:39] INFO | Style Loss : 34.542301 Content Loss: 6.874137
+[2023-06-17 16:31:39] INFO | 51e2004d2ea549f6bc172e2ed3a37485.jpg
+[2023-06-17 16:31:40] INFO | 347458328 generating photo
+[2023-06-17 16:31:40] INFO | 347458328 | source file: AgACAgIAAxkBAAObZI21UCTP9cwN8C1y3NW5Ze2zck4AAlXHMRttOnBIVbYH_mdbTssBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAOXZI21QHkUcHja90rvaIrp3FGOXXQAAuTKMRuo1mlIlmA9mK05kAEBAAMCAAN5AAMvBA
+[2023-06-17 16:31:43] INFO | Building the style transfer model..
+[2023-06-17 16:31:46] INFO | Optimizing..
+[2023-06-17 16:31:53] INFO | run [5]:
+[2023-06-17 16:31:53] INFO | Style Loss : 999.998047 Content Loss: 2.941480
+[2023-06-17 16:32:00] INFO | run [10]:
+[2023-06-17 16:32:00] INFO | Style Loss : 285.700562 Content Loss: 7.479979
+[2023-06-17 16:32:08] INFO | run [15]:
+[2023-06-17 16:32:08] INFO | Style Loss : 157.364517 Content Loss: 7.896299
+[2023-06-17 16:32:15] INFO | run [20]:
+[2023-06-17 16:32:15] INFO | Style Loss : 89.343529 Content Loss: 8.219125
+[2023-06-17 16:32:22] INFO | run [25]:
+[2023-06-17 16:32:22] INFO | Style Loss : 66.636307 Content Loss: 7.966674
+[2023-06-17 16:32:30] INFO | run [30]:
+[2023-06-17 16:32:30] INFO | Style Loss : 58.126736 Content Loss: 7.931613
+[2023-06-17 16:32:37] INFO | run [35]:
+[2023-06-17 16:32:37] INFO | Style Loss : 52.369835 Content Loss: 7.617393
+[2023-06-17 16:32:44] INFO | run [40]:
+[2023-06-17 16:32:44] INFO | Style Loss : 46.350315 Content Loss: 7.473909
+[2023-06-17 16:32:52] INFO | run [45]:
+[2023-06-17 16:32:52] INFO | Style Loss : 43.023869 Content Loss: 7.268544
+[2023-06-17 16:33:01] INFO | run [50]:
+[2023-06-17 16:33:01] INFO | Style Loss : 39.367653 Content Loss: 7.049551
+[2023-06-17 16:33:11] INFO | run [55]:
+[2023-06-17 16:33:11] INFO | Style Loss : 36.691925 Content Loss: 6.993066
+[2023-06-17 16:33:19] INFO | run [60]:
+[2023-06-17 16:33:19] INFO | Style Loss : 34.542301 Content Loss: 6.874137
+[2023-06-17 16:33:19] INFO | 24d4f29a0435481a9d0b500cd8b20be0.jpg
+[2023-06-17 16:35:09] INFO | Started loading photo style for 347458328
+[2023-06-17 16:35:12] INFO | 347458328 loading AgACAgIAAxkBAAOmZI22kKwC4xq5t_0Xgiad_72M1bQAAlfHMRttOnBI0mHkYsnfNPYBAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:35:15] INFO | Started loading photo source for 347458328
+[2023-06-17 16:35:21] INFO | 347458328 loading AgACAgIAAxkBAAOqZI22mbah5TBqR3hufbpJO4sYRAMAAlXHMRttOnBIVbYH_mdbTssBAAMCAAN5AAMvBA.jpg
+[2023-06-17 16:35:28] INFO | 347458328 generating photo
+[2023-06-17 16:35:28] INFO | 347458328 | source file: AgACAgIAAxkBAAOqZI22mbah5TBqR3hufbpJO4sYRAMAAlXHMRttOnBIVbYH_mdbTssBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAOmZI22kKwC4xq5t_0Xgiad_72M1bQAAlfHMRttOnBI0mHkYsnfNPYBAAMCAAN4AAMvBA
+[2023-06-17 16:35:31] INFO | Building the style transfer model..
+[2023-06-17 16:35:34] INFO | Optimizing..
+[2023-06-17 16:35:42] INFO | run [5]:
+[2023-06-17 16:35:42] INFO | Style Loss : 346453.312500 Content Loss: 65.589699
+[2023-06-17 16:35:50] INFO | run [10]:
+[2023-06-17 16:35:50] INFO | Style Loss : 8765.807617 Content Loss: 29.628353
+[2023-06-17 16:35:57] INFO | run [15]:
+[2023-06-17 16:35:57] INFO | Style Loss : 4422.245117 Content Loss: 31.315182
+[2023-06-17 16:36:05] INFO | run [20]:
+[2023-06-17 16:36:05] INFO | Style Loss : 2420.837402 Content Loss: 32.803345
+[2023-06-17 16:36:13] INFO | run [25]:
+[2023-06-17 16:36:13] INFO | Style Loss : 1124.612549 Content Loss: 32.766563
+[2023-06-17 16:36:22] INFO | run [30]:
+[2023-06-17 16:36:22] INFO | Style Loss : 426.928345 Content Loss: 31.381197
+[2023-06-17 16:36:29] INFO | run [35]:
+[2023-06-17 16:36:29] INFO | Style Loss : 299.485626 Content Loss: 31.353687
+[2023-06-17 16:36:37] INFO | run [40]:
+[2023-06-17 16:36:37] INFO | Style Loss : 215.073654 Content Loss: 31.344421
+[2023-06-17 16:36:44] INFO | run [45]:
+[2023-06-17 16:36:44] INFO | Style Loss : 162.374359 Content Loss: 31.071386
+[2023-06-17 16:36:51] INFO | run [50]:
+[2023-06-17 16:36:51] INFO | Style Loss : 140.314362 Content Loss: 30.997406
+[2023-06-17 16:36:59] INFO | run [55]:
+[2023-06-17 16:36:59] INFO | Style Loss : 114.901413 Content Loss: 30.910982
+[2023-06-17 16:37:06] INFO | run [60]:
+[2023-06-17 16:37:06] INFO | Style Loss : 95.023232 Content Loss: 30.748770
+[2023-06-17 16:37:07] INFO | 33b44a5143a044768b47cf704b73d7bf.jpg
+[2023-06-17 16:41:55] INFO | User 300954178 deouron started
+[2023-06-17 16:42:02] INFO | Started loading photo style for 300954178
+[2023-06-17 16:42:04] INFO | 300954178 loading AgACAgIAAxkBAAOyZI24LMFXb_bDZbjas7n8iUfJdB4AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:42:12] INFO | Started loading photo source for 300954178
+[2023-06-17 16:42:15] INFO | 300954178 loading AgACAgIAAxkBAAO2ZI24N_hiBUXPAkBXqJ7Nskn3jlUAAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA.jpg
+[2023-06-17 16:42:17] INFO | 300954178 generating photo
+[2023-06-17 16:42:17] INFO | 300954178 | source file: AgACAgIAAxkBAAO2ZI24N_hiBUXPAkBXqJ7Nskn3jlUAAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAOyZI24LMFXb_bDZbjas7n8iUfJdB4AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA
+[2023-06-17 16:42:17] ERROR | Error occurred while generating the photo: [Errno 2] No such file or directory: 'app/uploaded_photos/AgACAgIAAxkBAAOyZI24LMFXb_bDZbjas7n8iUfJdB4AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+Traceback (most recent call last):
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/bot.py", line 37, in <module>
+    executor.start_polling(dp, skip_updates=True, on_startup=set_commands)
+    │        │             │                                 └ <function set_commands at 0x10891beb0>
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x10a8e9030>
+    │        └ <function start_polling at 0x10a8ec430>
+    └ <module 'aiogram.utils.executor' from '/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor...
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/utils/executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x10a8ece50>
+    └ <aiogram.utils.executor.Executor object at 0x11d6c9870>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/utils/executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function BaseEventLoop.run_forever at 0x108fd5240>
+    └ <_UnixSelectorEventLoop running=True closed=False debug=False>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x108fd6d40>
+    └ <_UnixSelectorEventLoop running=True closed=False debug=False>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x108ebdab0>
+    └ <Handle <TaskStepMethWrapper object at 0x11d705e70>()>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x11d705e70>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x11d705e70>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x11d705e70>()>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 318314394, "message": {"message_id": 184, "from": {"id": 300954178, "is_bot": false, "first_name": "Di...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x10a8e9030>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x1...
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x10a4eead0>
+                 │    │                │      └ <Update {"update_id": 318314394, "message": {"message_id": 184, "from": {"id": 300954178, "is_bot": false, "first_name": "Dim...
+                 │    │                └ <function Handler.notify at 0x10a8036d0>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x10a9ac130>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x10a8e9030>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {'state': <aiogram.dispatcher.storage.FSMContext object at 0x11d7061d0>}
+                     │           │        └ (<Message {"message_id": 184, "from": {"id": 300954178, "is_bot": false, "first_name": "Dima", "last_name": "Sidorov", "usern...
+                     │           └ <function generate_photo at 0x11d6e0c10>
+                     └ Handler.HandlerObj(handler=<function generate_photo at 0x11d6e0c10>, spec=FullArgSpec(args=['message', 'state'], varargs=None...
+
+> File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/bot/headlers.py", line 98, in generate_photo
+    output_file = main(data['image_source'], data['image_style'], data['size'],
+                  │    │                     │                    └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x11d706da0>
+                  │    │                     └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x11d706da0>
+                  │    └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x11d706da0>
+                  └ <function main at 0x11d6e0670>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/app.py", line 85, in main
+    content_img, style_img = preprocessing(source_file=source_file, style_file=style_file, size=size,
+                             │                         │                       │                └ [1280, 960]
+                             │                         │                       └ 'AgACAgIAAxkBAAOyZI24LMFXb_bDZbjas7n8iUfJdB4AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA'
+                             │                         └ 'AgACAgIAAxkBAAO2ZI24N_hiBUXPAkBXqJ7Nskn3jlUAAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA'
+                             └ <function preprocessing at 0x11d6e0550>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/preprocessing.py", line 20, in preprocessing
+    style_img = image_loader(f'app/uploaded_photos/{style_file}.jpg', size, size_reduction)
+                │                                                     │     └ 2
+                │                                                     └ [1280, 960]
+                └ <function image_loader at 0x11c5b9360>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/preprocessing.py", line 9, in image_loader
+    image = Image.open(image_name)
+            │     │    └ 'app/uploaded_photos/AgACAgIAAxkBAAOyZI24LMFXb_bDZbjas7n8iUfJdB4AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+            │     └ <function open at 0x11c779e10>
+            └ <module 'PIL.Image' from '/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/pyt...
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/PIL/Image.py", line 3236, in open
+    fp = builtins.open(filename, "rb")
+         │        │    └ 'app/uploaded_photos/AgACAgIAAxkBAAOyZI24LMFXb_bDZbjas7n8iUfJdB4AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+         │        └ <built-in function open>
+         └ <module 'builtins' (built-in)>
+
+FileNotFoundError: [Errno 2] No such file or directory: 'app/uploaded_photos/AgACAgIAAxkBAAOyZI24LMFXb_bDZbjas7n8iUfJdB4AAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+[2023-06-17 16:44:21] INFO | User 300954178 deouron started
+[2023-06-17 16:44:32] INFO | Started loading photo style for 300954178
+[2023-06-17 16:44:34] INFO | 300954178 loading AgACAgIAAxkBAAO-ZI24woOf_dbQ6IdQrcwMcVEV7QMAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:44:36] INFO | Started loading photo source for 300954178
+[2023-06-17 16:44:38] INFO | 300954178 loading AgACAgIAAxkBAAPCZI24xlXKFbdfLBuaSyLWYJtxom0AAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA.jpg
+[2023-06-17 16:44:40] INFO | 300954178 generating photo
+[2023-06-17 16:44:40] INFO | 300954178 | source file: AgACAgIAAxkBAAPCZI24xlXKFbdfLBuaSyLWYJtxom0AAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAO-ZI24woOf_dbQ6IdQrcwMcVEV7QMAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA
+[2023-06-17 16:44:40] ERROR | Error occurred while generating the photo: [Errno 2] No such file or directory: 'Photos/modified_photos/AgACAgIAAxkBAAO-ZI24woOf_dbQ6IdQrcwMcVEV7QMAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+Traceback (most recent call last):
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/bot.py", line 37, in <module>
+    executor.start_polling(dp, skip_updates=True, on_startup=set_commands)
+    │        │             │                                 └ <function set_commands at 0x10087beb0>
+    │        │             └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x1028ebd00>
+    │        └ <function start_polling at 0x102868430>
+    └ <module 'aiogram.utils.executor' from '/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor...
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/utils/executor.py", line 45, in start_polling
+    executor.start_polling(
+    │        └ <function Executor.start_polling at 0x102868e50>
+    └ <aiogram.utils.executor.Executor object at 0x115785db0>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/utils/executor.py", line 323, in start_polling
+    loop.run_forever()
+    │    └ <function BaseEventLoop.run_forever at 0x100f35240>
+    └ <_UnixSelectorEventLoop running=True closed=False debug=False>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/base_events.py", line 600, in run_forever
+    self._run_once()
+    │    └ <function BaseEventLoop._run_once at 0x100f36d40>
+    └ <_UnixSelectorEventLoop running=True closed=False debug=False>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/base_events.py", line 1896, in _run_once
+    handle._run()
+    │      └ <function Handle._run at 0x100e1dab0>
+    └ <Handle <TaskStepMethWrapper object at 0x1157b9a20>()>
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+    │    │            │    │           │    └ <member '_args' of 'Handle' objects>
+    │    │            │    │           └ <Handle <TaskStepMethWrapper object at 0x1157b9a20>()>
+    │    │            │    └ <member '_callback' of 'Handle' objects>
+    │    │            └ <Handle <TaskStepMethWrapper object at 0x1157b9a20>()>
+    │    └ <member '_context' of 'Handle' objects>
+    └ <Handle <TaskStepMethWrapper object at 0x1157b9a20>()>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {}
+                     │           │        └ (<Update {"update_id": 318314400, "message": {"message_id": 196, "from": {"id": 300954178, "is_bot": false, "first_name": "Di...
+                     │           └ <bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x1028ebd00>>
+                     └ Handler.HandlerObj(handler=<bound method Dispatcher.process_update of <aiogram.dispatcher.dispatcher.Dispatcher object at 0x1...
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+                 │    │                │      │      └ <aiogram.types.fields.Field object at 0x10245abc0>
+                 │    │                │      └ <Update {"update_id": 318314400, "message": {"message_id": 196, "from": {"id": 300954178, "is_bot": false, "first_name": "Dim...
+                 │    │                └ <function Handler.notify at 0x10277f6d0>
+                 │    └ <aiogram.dispatcher.handler.Handler object at 0x10292c1c0>
+                 └ <aiogram.dispatcher.dispatcher.Dispatcher object at 0x1028ebd00>
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+                     │           │        │       └ {'state': <aiogram.dispatcher.storage.FSMContext object at 0x1157b95a0>}
+                     │           │        └ (<Message {"message_id": 196, "from": {"id": 300954178, "is_bot": false, "first_name": "Dima", "last_name": "Sidorov", "usern...
+                     │           └ <function generate_photo at 0x115798c10>
+                     └ Handler.HandlerObj(handler=<function generate_photo at 0x115798c10>, spec=FullArgSpec(args=['message', 'state'], varargs=None...
+
+> File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/bot/headlers.py", line 98, in generate_photo
+    output_file = main(data['image_source'], data['image_style'], data['size'],
+                  │    │                     │                    └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x1157ba920>
+                  │    │                     └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x1157ba920>
+                  │    └ <aiogram.dispatcher.storage.FSMContextProxy object at 0x1157ba920>
+                  └ <function main at 0x115798670>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/app.py", line 85, in main
+    content_img, style_img = preprocessing(source_file=source_file, style_file=style_file, size=size,
+                             │                         │                       │                └ [1280, 960]
+                             │                         │                       └ 'AgACAgIAAxkBAAO-ZI24woOf_dbQ6IdQrcwMcVEV7QMAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA'
+                             │                         └ 'AgACAgIAAxkBAAPCZI24xlXKFbdfLBuaSyLWYJtxom0AAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA'
+                             └ <function preprocessing at 0x115798550>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/preprocessing.py", line 20, in preprocessing
+    style_img = image_loader(f'Photos/modified_photos/{style_file}.jpg', size, size_reduction)
+                │                                                        │     └ 2
+                │                                                        └ [1280, 960]
+                └ <function image_loader at 0x11457d360>
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/model/preprocessing.py", line 9, in image_loader
+    image = Image.open(image_name)
+            │     │    └ 'Photos/modified_photos/AgACAgIAAxkBAAO-ZI24woOf_dbQ6IdQrcwMcVEV7QMAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+            │     └ <function open at 0x11473de10>
+            └ <module 'PIL.Image' from '/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/pyt...
+
+  File "/Users/dima_sidorov/Desktop/Образование/Deep Learning School/Painting_style_transferor/venv/lib/python3.10/site-packages/PIL/Image.py", line 3236, in open
+    fp = builtins.open(filename, "rb")
+         │        │    └ 'Photos/modified_photos/AgACAgIAAxkBAAO-ZI24woOf_dbQ6IdQrcwMcVEV7QMAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+         │        └ <built-in function open>
+         └ <module 'builtins' (built-in)>
+
+FileNotFoundError: [Errno 2] No such file or directory: 'Photos/modified_photos/AgACAgIAAxkBAAO-ZI24woOf_dbQ6IdQrcwMcVEV7QMAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg'
+[2023-06-17 16:45:37] INFO | User 300954178 deouron started
+[2023-06-17 16:45:39] INFO | Started loading photo style for 300954178
+[2023-06-17 16:45:42] INFO | 300954178 loading AgACAgIAAxkBAAPKZI25Bl_1m2o5-xJplV-ICgkIF7gAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA.jpg
+[2023-06-17 16:45:45] INFO | Started loading photo source for 300954178
+[2023-06-17 16:45:47] INFO | 300954178 loading AgACAgIAAxkBAAPOZI25C-4yNUlPBEi0vUVMNWWvbyAAAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA.jpg
+[2023-06-17 16:45:48] INFO | 300954178 generating photo
+[2023-06-17 16:45:48] INFO | 300954178 | source file: AgACAgIAAxkBAAPOZI25C-4yNUlPBEi0vUVMNWWvbyAAAgPHMRsSEHBI2mFTTcBvRrkBAAMCAAN5AAMvBA | image_file: AgACAgIAAxkBAAPKZI25Bl_1m2o5-xJplV-ICgkIF7gAAujGMRsSEHBIraJSqHU5vzsBAAMCAAN4AAMvBA
+[2023-06-17 16:45:52] INFO | Building the style transfer model..
+[2023-06-17 16:45:54] INFO | Optimizing..
+[2023-06-17 16:46:01] INFO | run [5]:
+[2023-06-17 16:46:01] INFO | Style Loss : 239211.156250 Content Loss: 65.017509
+[2023-06-17 16:46:13] INFO | run [10]:
+[2023-06-17 16:46:13] INFO | Style Loss : 8128.217285 Content Loss: 25.865395
+[2023-06-17 16:46:21] INFO | run [15]:
+[2023-06-17 16:46:21] INFO | Style Loss : 3882.428711 Content Loss: 30.808952
+[2023-06-17 16:46:28] INFO | run [20]:
+[2023-06-17 16:46:28] INFO | Style Loss : 1726.221069 Content Loss: 30.397917
+[2023-06-17 16:46:35] INFO | run [25]:
+[2023-06-17 16:46:35] INFO | Style Loss : 497.742920 Content Loss: 30.751093
+[2023-06-17 16:46:44] INFO | run [30]:
+[2023-06-17 16:46:44] INFO | Style Loss : 276.810730 Content Loss: 30.025225
+[2023-06-17 16:46:51] INFO | run [35]:
+[2023-06-17 16:46:51] INFO | Style Loss : 215.024307 Content Loss: 30.251221
+[2023-06-17 16:46:58] INFO | run [40]:
+[2023-06-17 16:46:58] INFO | Style Loss : 172.402496 Content Loss: 30.245293
+[2023-06-17 16:47:05] INFO | run [45]:
+[2023-06-17 16:47:05] INFO | Style Loss : 139.157120 Content Loss: 30.168163
+[2023-06-17 16:47:12] INFO | run [50]:
+[2023-06-17 16:47:12] INFO | Style Loss : 109.483406 Content Loss: 30.289534
+[2023-06-17 16:47:20] INFO | run [55]:
+[2023-06-17 16:47:20] INFO | Style Loss : 92.897575 Content Loss: 30.249193
+[2023-06-17 16:47:27] INFO | run [60]:
+[2023-06-17 16:47:27] INFO | Style Loss : 75.155098 Content Loss: 30.155300
+[2023-06-17 16:47:27] INFO | 7d2c21e7f95b4553b73c837db84b08e3.jpg
