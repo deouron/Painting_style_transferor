@@ -1,4 +1,4 @@
-# Painting_style_transferor
+# Painting_style_transferor (@style_transferor_bot)
 
 To launch the bot, you need to add your token to the [TOKEN.py](https://github.com/deouron/Painting_style_transferor/blob/main/bot/TOKEN.py) and run [bot.py](https://github.com/deouron/Painting_style_transferor/blob/main/bot.py)
 
